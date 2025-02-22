@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Denzel Green 
-- 👀 I’m an Aspiring Data Enthusiast with a passion for turning data into inights with a mindset of contiually learning!
+- 👀 I’m an Aspiring Data Enthusiast with a passion for turning data into insights with a mindset of contiually learning!
 - 🌱 I’m currently a graduate at NYIT(New York Institution of Tehnology) with a Masters in Data Science. 
 - 📫 You can reach me at my professional email -- Denzelisgreen@gmail.com 
 - 😄 Pronouns:He/Him
